@@ -42,6 +42,7 @@ DEPENDENCIES
 - validators         0.20.0     -> pip3 install validators
 - bs4                0.0.1      -> pip3 install bs4
 - beautifulsoup4     4.11.1     -> pip3 install beautifulsoup4  (this one is probbaly optional because bs4 should already have it)
+- urllib3            1.26.7     -> pip3 install urllib3
 
 Tested with python 3.9.10 under Cygwin (Windows)
 
