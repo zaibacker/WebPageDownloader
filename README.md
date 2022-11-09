@@ -27,6 +27,7 @@ python3 fetch.py --metadata  https://website1.com
 
 for example :
 $ python3 fetch.py --metadata  https://www.google.com
+
 site : www.google.com
 num_links : 17
 images : 1
